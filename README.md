@@ -25,9 +25,13 @@ In this work Collaborative filtering (CF) techniques will be used to analyze rel
 4-	Perform in-depth analysis, using machine learning or another advanced technique to predict 
 
 Deliverables
+
 •	Final report
+
 •	Jupyter notebook .ipynb code
+
 •	Slide deck
+
 •	Presenting the project
 
 
